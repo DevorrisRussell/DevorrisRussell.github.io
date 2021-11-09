@@ -1,0 +1,24 @@
+
+
+body {
+    background-image: url("../images/donovan-reeves-E4hWWoTTtxw-unsplash (5).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+#home {
+    color: rgb(5, 5, 71);
+    margin-top: 6vh; }
+#about {
+    color: black;
+    margin-top: 100vh;
+}
+
+

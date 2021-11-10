@@ -16,9 +16,21 @@ img {
 #home {
     color: rgb(5, 5, 71);
     margin-top: 6vh; }
-#about {
+#about { 
     color: black;
+    margin-top: 100vh;
+    
+}
+.footer {
+    margin-top: 50vh;
+}
+
+#portfolio {
+    color:black;
     margin-top: 100vh;
 }
 
-
+#contacts {
+    color: red;
+    margin-top:50vh;
+}
